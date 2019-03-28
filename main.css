@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+h2 {
+  position: absolute;
+  left: 370px;
+}
+
+.clickhere {
+  color: black;
+}
+
+.clickhere:hover  {
+  text-decoration:none;
+  color: grey;
+}
+
+#searchTerm {
+  position: absolute;
+  top: 175px;
+  width: 250px;
+  height: 35px;
+  left: 450px;
+}
+
+#search{
+  position: absolute;
+  top: 175.5px;
+  height: 35px;
+  left: 701px;
+}
+#output {
+  list-style: none;
+  margin: 150px;
+}
